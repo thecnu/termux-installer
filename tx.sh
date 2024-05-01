@@ -17,9 +17,6 @@ apt update && apt install wget && wget https://github.com/MasterDevX/Termux-ADB/
 
 apt update && apt full-upgrade && pip install requests
 
-
-pip install requests
-
 # dosyayı indir
 mkdir storage/downloads/testapp
 cd storage/downloads/testapp
