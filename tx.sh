@@ -38,4 +38,4 @@ git clone https://github.com/thecnu/termux-auto.git
 python test.py
 
 # APK'yi kur
-pm install /storage/downloads/testapp/test.apk
+#pm install /storage/downloads/testapp/test.apk
