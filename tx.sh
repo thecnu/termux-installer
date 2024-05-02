@@ -25,7 +25,7 @@ pm install /storage/downloads/appium-uiautomator2-server-v7.0.5.apk
 
 
 # github python kodları 
-git clone https://github.com/thecnu/termux-autoinstaller.git
+git clone https://github.com/thecnu/termux.git
 
 python termux-autoinstaller/test.py
 
